@@ -1,0 +1,11 @@
+node_modules
+README.md
+package-lock.json
+bin/
+obj/
+RedisTest.csproj
+RedisTest.csproj.user
+.vs
+OneProject/
+packages/
+Properties/
